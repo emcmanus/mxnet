@@ -1,4 +1,4 @@
-/*!
+/*! 
  *  Copyright (c) 2015 by Contributors
  * \file mxrtc.cc
  * \brief Wrapper for NVRTC
